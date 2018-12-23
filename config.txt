@@ -1,0 +1,6 @@
+token=NTE4NDExMzI2MjAxMTM1MTM3.DuQjsA.fkymd-CvwP9X6DUCkjThNnmcg1E
+owner=462038057529507841 
+prefix=A
+game=I love my self , 
+stayinchannel=true
+songinstatus=false
